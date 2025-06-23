@@ -62,8 +62,8 @@ sentiment140\_streamlit\_app/
 
 1️⃣ **Clone this repository**
 ```bash
-git clone https://github.com/yourusername/sentiment140_streamlit_app.git
-cd sentiment140_streamlit_app
+git clone https://github.com/yaswanthKumar44/Sentiment-Analysis-on-Twitter-Data.git
+cd Sentiment-Analysis-on-Twitter-Data
 ````
 
 2️⃣ **Install dependencies**
